@@ -18,43 +18,50 @@ const run = async () => {
     const options = await inquirer.askConfig();
     const scripture = constants.books[options.book];
     const language = constants.languages[options.language];
+    let chaptersList = []
 
     const booksList = await requestBooksList(scripture, language)
     console.log(chalk.yellow("downloading...", booksList));
+
+    await asyncForEach(booksList, async(book) => {
+       let tempList =  await getChaptersList(book, scripture, language)
+       chaptersList.push(tempList)
+    })
 
 }
 
 const requestBooksList = async (scripture, language) => {
     let booksList = [];
-    const URL = `https://lds.org/scriptures/${scripture}?lang=${language}`;
-    const data = await request.get(URL)
-    const jsdomWindow = new jsdom(data);
     const bookTag = `div#primary div.table-of-contents ul.${constants.class[scripture]} li`;
-    let books = jsdomWindow.window.document.querySelectorAll(bookTag);
-    books.forEach((element) => booksList.push(element.getAttribute('id')));
 
+    const data = await request.get({uri:`https://lds.org/scriptures/${scripture}?lang=${language}`, rejectUnauthorized: false})
+    const jsdomWindow = new jsdom(data);
+    let books = jsdomWindow.window.document.querySelectorAll(bookTag);
+
+    books.forEach((element) => booksList.push(element.getAttribute('id')));
     return booksList
 }
 
-const parseChaptersInfo = async (book, scripture, language, chapter = 1) => {
+const getChaptersList = async (book, scripture, language) => {
+    let chaptersList = [];
+    const chapterTag = `div#primary ul.jump-to-chapter li a`;
 
-    // for (const book of booksList) {
-    //     console.log(book);
-    //     request.get(`https://lds.org/scriptures/${scripture}/${book}/${chapter}?lang=${language}`, (err, client, data) => {
-    //         // console.log(`https://lds.org/scriptures/${scripture}/${book}/${chapter}?lang=${language}`);
-    //         if (client.statusCode >= 300) break;
-            
-            
-    //         // console.log(data);
-    //         chapter = chapter + 1;
-    //         // parseChaptersInfo(book, scripture, language, chapter + 1)
-    //     })
-    // }
+    const data =  await request.get({uri: `https://lds.org/scriptures/${scripture}/${book}?lang=${language}`, rejectUnauthorized: false});
+    const jsdomWindow = new jsdom(data);
+    let chapters = jsdomWindow.window.document.querySelectorAll(chapterTag);
 
+    chapters.forEach( element => chaptersList.push({[book]: element.getAttribute('href')}) ) 
+    return chaptersList;
 }
 
 const processHTML = async (data) => {
 
 }
+
+const asyncForEach = async(array, callback) => {
+    for (let index = 0; index < array.length; index++) {
+      await callback(array[index], index, array)
+    }
+  }
 
 run();
