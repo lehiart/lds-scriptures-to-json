@@ -30,7 +30,6 @@ const run = async () => {
        const { chapters, bookName, bookSummary } = tempList;
        chaptersList.push({book: bookName, chapters, summary: bookSummary});
     })
-    console.log(chaptersList);
 
     fs.writeFile(`${scripture}-${language}.json`, pretty(chaptersList), 'utf8', (err) => {
         if (err) throw err;
@@ -84,7 +83,7 @@ const getChaptersData = async (chapterLink) => {
     versesData = jsdomWindow.window.document.querySelectorAll(`div#content .article p.verse`);
 
     verses = Array.from(versesData).map(el => {
-        return {verse_number: el.textContent.substr(0, el.textContent.indexOf(' ')) ,text: el.textContent};
+        return {verse_number: el.textContent.substr(0, el.textContent.indexOf(' ')) ,text: el.textContent.substr(el.textContent.indexOf(' ') +1)};
     })
 
     return verses;
