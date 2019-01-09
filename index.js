@@ -3,6 +3,8 @@ const clear = require('clear');
 const figlet = require('figlet');
 const request = require('request-promise');
 const jsdom = require('jsdom').JSDOM;
+const fs = require('fs');
+const pretty = require('json-stringify-pretty-compact');
 
 const inquirer = require('./config');
 const constants = require('./constants')
@@ -25,8 +27,13 @@ const run = async () => {
 
     await asyncForEach(booksList, async(book) => {
        let tempList =  await getChaptersList(book, scripture, language)
-       chaptersList.push(tempList)
+       chaptersList.push(tempList);
     })
+
+    fs.writeFile('book.json', pretty(chaptersList), 'utf8', (err) => {
+        if (err) throw err;
+        console.log('The file has been saved!');
+      });
 
 }
 
@@ -48,20 +55,40 @@ const getChaptersList = async (book, scripture, language) => {
 
     const data =  await request.get({uri: `https://lds.org/scriptures/${scripture}/${book}?lang=${language}`, rejectUnauthorized: false});
     const jsdomWindow = new jsdom(data);
-    let chapters = jsdomWindow.window.document.querySelectorAll(chapterTag);
+    let chapterLinks = jsdomWindow.window.document.querySelectorAll(chapterTag);
+    let bookName = jsdomWindow.window.document.querySelector('#details h1 span.dominant').textContent;
 
-    chapters.forEach( element => chaptersList.push({[book]: element.getAttribute('href')}) ) 
+    chapterLinks = Array.from(chapterLinks)
+        .map((element) => { 
+            return {chapter: element.textContent, link: element.getAttribute('href'), verses: []}
+        })
+
+    await asyncForEach(chapterLinks, async(element) => {
+         const verses =  await getChaptersData(element.link)
+         element.verses = verses
+        chaptersList.push({book: bookName, chapters: element})
+     })
+
     return chaptersList;
 }
 
-const processHTML = async (data) => {
+const getChaptersData = async (chapterLink) => {
+    let verses = [];
+    const data =  await request.get({uri: chapterLink, rejectUnauthorized: false});
+    const jsdomWindow = new jsdom(data);
+    versesData = jsdomWindow.window.document.querySelectorAll(`div#content .article p.verse`);
 
+    verses = Array.from(versesData).map(el => {
+        return {verse_number: el.textContent.substr(0, el.textContent.indexOf(' ')) ,text: el.textContent};
+    })
+
+    return verses;
 }
 
 const asyncForEach = async(array, callback) => {
     for (let index = 0; index < array.length; index++) {
       await callback(array[index], index, array)
     }
-  }
+}
 
 run();
