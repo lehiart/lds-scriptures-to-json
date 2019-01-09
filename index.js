@@ -27,11 +27,12 @@ const run = async () => {
 
     await asyncForEach(booksList, async(book) => {
        let tempList = await getChaptersList(book, scripture, language)
-       const { chapters, bookName } = tempList;
-       chaptersList.push({book: bookName, chapters});
+       const { chapters, bookName, bookSummary } = tempList;
+       chaptersList.push({book: bookName, chapters, summary: bookSummary});
     })
+    console.log(chaptersList);
 
-    fs.writeFile('book.json', pretty(chaptersList), 'utf8', (err) => {
+    fs.writeFile(`${scripture}-${language}.json`, pretty(chaptersList), 'utf8', (err) => {
         if (err) throw err;
         console.log('The file has been saved!');
       });
@@ -58,19 +59,22 @@ const getChaptersList = async (book, scripture, language) => {
     const jsdomWindow = new jsdom(data);
     let chapterLinks = jsdomWindow.window.document.querySelectorAll(chapterTag);
     let bookName = jsdomWindow.window.document.querySelector('#details h1 span.dominant').textContent;
+    let bookSummary = jsdomWindow.window.document.querySelector('div#primary div.chapters div.bookSummary') ? jsdomWindow.window.document.querySelector('div#primary div.chapters div.bookSummary').textContent  : '';
+    let chapterSummary = jsdomWindow.window.document.querySelectorAll('div#content p.study-summary');
 
     chapterLinks = Array.from(chapterLinks)
         .map((element) => { 
             return {chapter: element.textContent, link: element.getAttribute('href'), verses: []}
         })
 
-    await asyncForEach(chapterLinks, async(element) => {
+    await asyncForEach(chapterLinks, async(element, index) => {
          const verses =  await getChaptersData(element.link)
          element.verses = verses
-        chaptersList.push(element)
+         element.chapter_summary = chapterSummary[index].textContent
+         chaptersList.push(element)
      })
 
-    return {chapters: chaptersList, bookName};
+    return {chapters: chaptersList, bookName, bookSummary};
 }
 
 const getChaptersData = async (chapterLink) => {
