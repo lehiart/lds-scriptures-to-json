@@ -1,8 +1,8 @@
 [
-  [
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+  {
+    "book": "The First Book of Nephi",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/1?lang=eng",
         "verses": [
@@ -87,11 +87,8 @@
             "text": "20 And when the Jews heard these things they were angry with him; yea, even as with the prophets of old, whom they had acast out, and stoned, and slain; and they also bsought his life, that they might take it away. But behold, I, Nephi, will show unto you that the tender cmercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of ddeliverance."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/2?lang=eng",
         "verses": [
@@ -189,11 +186,8 @@
             "text": "24 And if it so be that they rebel against me, they shall be a ascourge unto thy seed, to bstir them up in the ways of remembrance."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/3?lang=eng",
         "verses": [
@@ -322,11 +316,8 @@
             "text": "31 And after the angel had departed, Laman and Lemuel again began to amurmur, saying: How is it possible that the Lord will deliver Laban into our hands? Behold, he is a mighty man, and he can command fifty, yea, even he can slay fifty; then why not us?"
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/4?lang=eng",
         "verses": [
@@ -483,11 +474,8 @@
             "text": "38 And it came to pass that we took the plates of brass and the servant of Laban, and departed into the wilderness, and journeyed unto the atent of our father."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/5?lang=eng",
         "verses": [
@@ -580,11 +568,8 @@
             "text": "22 Wherefore, it was wisdom in the Lord that we should carry them with us, as we journeyed in the wilderness towards the land of promise."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/6?lang=eng",
         "verses": [
@@ -613,11 +598,8 @@
             "text": "6 Wherefore, I shall give commandment unto my seed, that they shall not occupy these plates with things which are not of worth unto the children of men."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/7?lang=eng",
         "verses": [
@@ -710,11 +692,8 @@
             "text": "22 And it came to pass that we did come down unto the tent of our father. And after I and my brethren and all the house of Ishmael had come down unto the tent of my father, they did give athanks unto the Lord their God; and they did offer bsacrifice and burnt offerings unto him."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/8?lang=eng",
         "verses": [
@@ -871,11 +850,8 @@
             "text": "38 And after he had preached unto them, and also prophesied unto them of many things, he bade them to keep the commandments of the Lord; and he did cease speaking unto them."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/9?lang=eng",
         "verses": [
@@ -904,11 +880,8 @@
             "text": "6 But the Lord aknoweth all things from the beginning; wherefore, he prepareth a way to accomplish all his works among the children of men; for behold, he hath all bpower unto the fulfilling of all his words. And thus it is. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/10?lang=eng",
         "verses": [
@@ -1001,11 +974,8 @@
             "text": "22 And the Holy Ghost giveth aauthority that I should speak these things, and deny them not."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/11?lang=eng",
         "verses": [
@@ -1154,11 +1124,8 @@
             "text": "36 And it came to pass that I saw and bear record, that the great and spacious building was the apride of the world; and it bfell, and the fall thereof was exceedingly great. And the angel of the Lord spake unto me again, saying: Thus shall be the destruction of all nations, kindreds, tongues, and people, that shall fight against the twelve apostles of the Lamb."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/12?lang=eng",
         "verses": [
@@ -1255,11 +1222,8 @@
             "text": "23 And it came to pass that I beheld, after they had dwindled in unbelief they became a adark, and loathsome, and a bfilthy people, full of cidleness and all manner of abominations."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/13?lang=eng",
         "verses": [
@@ -1429,11 +1393,8 @@
             "text": "42 And the time cometh that he shall manifest himself unto all nations, both unto the aJews and also unto the Gentiles; and after he has manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews, and the blast shall be first, and the cfirst shall be last."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/14?lang=eng",
         "verses": [
@@ -1558,11 +1519,8 @@
             "text": "30 And now I make an end of speaking concerning the things which I saw while I was acarried away in the Spirit; and if all the things which I saw are not written, the things which I have written are btrue. And thus it is. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/15?lang=eng",
         "verses": [
@@ -1711,11 +1669,8 @@
             "text": "36 Wherefore, the wicked are rejected from the righteous, and also from that atree of life, whose fruit is most precious and most bdesirable above all other fruits; yea, and it is the cgreatest of all the dgifts of God. And thus I spake unto my brethren. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "16",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/16?lang=eng",
         "verses": [
@@ -1876,11 +1831,8 @@
             "text": "39 And it came to pass that the Lord was with us, yea, even the voice of the Lord came and did speak many words unto them, and did achasten them exceedingly; and after they were chastened by the voice of the Lord they did turn away their anger, and did repent of their sins, insomuch that the Lord did bless us again with food, that we did not perish."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "17",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/17?lang=eng",
         "verses": [
@@ -2105,11 +2057,8 @@
             "text": "55 And now, they said: We know of a surety that the Lord is awith thee, for we know that it is the power of the Lord that has shaken us. And they fell down before me, and were about to bworship me, but I would not suffer them, saying: I am thy brother, yea, even thy younger brother; wherefore, worship the Lord thy God, and honor thy father and thy mother, that thy cdays may be long in the land which the Lord thy God shall give thee."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "18",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/18?lang=eng",
         "verses": [
@@ -2214,11 +2163,8 @@
             "text": "25 And it came to pass that we did find upon the land of promise, as we journeyed in the wilderness, that there were abeasts in the forests of every kind, both the cow and the ox, and the ass and the horse, and the goat and the wild goat, and all manner of wild animals, which were for the use of men. And we did find all manner of bore, both of cgold, and of silver, and of copper."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "19",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/19?lang=eng",
         "verses": [
@@ -2319,11 +2265,8 @@
             "text": "24 Wherefore I spake unto them, saying: Hear ye the words of the prophet, ye who are a aremnant of the house of Israel, a bbranch who have been broken off; chear ye the words of the prophet, which were written unto all the house of Israel, and liken them unto yourselves, that ye may have hope as well as your brethren from whom ye have been broken off; for after this manner has the prophet written."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "20",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/20?lang=eng",
         "verses": [
@@ -2416,11 +2359,8 @@
             "text": "22 And notwithstanding he hath done all this, and greater also, there is no apeace, saith the Lord, unto the wicked."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "21",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/21?lang=eng",
         "verses": [
@@ -2529,11 +2469,8 @@
             "text": "26 And I will afeed them that oppress thee with their own flesh; they shall be drunken with their own blood as with sweet wine; and all flesh shall bknow that I, the Lord, am thy cSavior and thy Redeemer, the dMighty One of Jacob."
           }
         ]
-      }
-    },
-    {
-      "book": "The First Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "22",
         "link": "https://www.lds.org/scriptures/bofm/1-ne/22?lang=eng",
         "verses": [
@@ -2663,12 +2600,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Second Book of Nephi",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/1?lang=eng",
         "verses": [
@@ -2801,11 +2738,8 @@
             "text": "32 Wherefore, if ye shall keep the commandments of the Lord, the Lord hath consecrated this land for the security of thy seed with the seed of my son."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/2?lang=eng",
         "verses": [
@@ -2930,11 +2864,8 @@
             "text": "30 I have spoken these few words unto you all, my sons, in the last days of my probation; and I have chosen the good part, according to the words of the prophet. And I have none other object save it be the everlasting awelfare of your souls. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/3?lang=eng",
         "verses": [
@@ -3039,11 +2970,8 @@
             "text": "25 And now, blessed art thou, Joseph. Behold, thou art little; wherefore hearken unto the words of thy brother, Nephi, and it shall be done unto thee even according to the words which I have spoken. Remember the words of thy dying father. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/4?lang=eng",
         "verses": [
@@ -3188,11 +3116,8 @@
             "text": "35 Yea, I know that God will give aliberally to him that asketh. Yea, my God will give me, if I bask cnot amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the drock of my erighteousness. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/5?lang=eng",
         "verses": [
@@ -3333,11 +3258,8 @@
             "text": "34 And it sufficeth me to say that forty years had passed away, and we had already had wars and contentions with our brethren."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/6?lang=eng",
         "verses": [
@@ -3414,11 +3336,8 @@
             "text": "18 And I will feed them that oppress thee, with their own flesh; and they shall be drunken with their own blood as with sweet wine; and all flesh shall know that I the Lord am thy Savior and thy aRedeemer, the bMighty One of Jacob."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/7?lang=eng",
         "verses": [
@@ -3467,11 +3386,8 @@
             "text": "11 Behold all ye that kindle fire, that compass yourselves about with sparks, walk in the light of ayour fire and in the sparks which ye have kindled. bThis shall ye have of mine hand—ye shall lie down in sorrow."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/8?lang=eng",
         "verses": [
@@ -3576,11 +3492,8 @@
             "text": "25 Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the abands of thy neck, O captive daughter of Zion."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/9?lang=eng",
         "verses": [
@@ -3801,11 +3714,8 @@
             "text": "54 And now, my brethren, I would speak unto you more; but on the morrow I will declare unto you the remainder of my words. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/10?lang=eng",
         "verses": [
@@ -3910,11 +3820,8 @@
             "text": "25 Wherefore, may God araise you from death by the power of the resurrection, and also from everlasting death by the power of the batonement, that ye may be received into the ceternal kingdom of God, that ye may praise him through grace divine. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/11?lang=eng",
         "verses": [
@@ -3951,11 +3858,8 @@
             "text": "8 And now I write asome of the words of Isaiah, that whoso of my people shall see these words may lift up their hearts and rejoice for all men. Now these are the words, and ye may liken them unto you and unto all men."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/12?lang=eng",
         "verses": [
@@ -4048,11 +3952,8 @@
             "text": "22 Cease ye from man, whose breath is in his nostrils; for wherein is he to be accounted of?"
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/13?lang=eng",
         "verses": [
@@ -4158,11 +4059,8 @@
             "text": "26 And her agates shall lament and bmourn; and she shall be desolate, and shall csit upon the ground."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/14?lang=eng",
         "verses": [
@@ -4191,11 +4089,8 @@
             "text": "6 And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of arefuge, and a covert from storm and from rain."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/15?lang=eng",
         "verses": [
@@ -4320,11 +4215,8 @@
             "text": "30 And in that aday they shall roar against them like the roaring of the sea; and if they look unto the land, behold, darkness and sorrow, and the light is darkened in the heavens thereof."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "16",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/16?lang=eng",
         "verses": [
@@ -4381,11 +4273,8 @@
             "text": "13 But yet there shall be a tenth, and they shall return, and shall be eaten, as a teil tree, and as an oak whose substance is in them when they cast their leaves; so the aholy seed shall be the substance thereof."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "17",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/17?lang=eng",
         "verses": [
@@ -4490,11 +4379,8 @@
             "text": "25 And all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns; but it shall be for the sending forth of oxen, and the treading of lesser cattle."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "18",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/18?lang=eng",
         "verses": [
@@ -4587,11 +4473,8 @@
             "text": "22 And they shall look unto the earth and behold trouble, and adarkness, dimness of anguish, and shall be driven to darkness."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "19",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/19?lang=eng",
         "verses": [
@@ -4680,11 +4563,8 @@
             "text": "21 Manasseh, aEphraim; and Ephraim, Manasseh; they together shall be against bJudah. For all this his anger is not turned away, but his hand is stretched out still."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "20",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/20?lang=eng",
         "verses": [
@@ -4825,11 +4705,8 @@
             "text": "34 And he shall cut down the thickets of the forests with iron, and Lebanon shall fall by a mighty one."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "21",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/21?lang=eng",
         "verses": [
@@ -4898,11 +4775,8 @@
             "text": "16 And there shall be a ahighway for the remnant of his people which shall be left, from Assyria, like as it was to Israel in the day that he came up out of the land of Egypt."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "22",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/22?lang=eng",
         "verses": [
@@ -4931,11 +4805,8 @@
             "text": "6 aCry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "23",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/23?lang=eng",
         "verses": [
@@ -5028,11 +4899,8 @@
             "text": "22 And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces; and her time is near to come, and her day shall not be prolonged. For I will destroy her speedily; yea, for I will be merciful unto my people, but the wicked shall perish."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "24",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/24?lang=eng",
         "verses": [
@@ -5165,11 +5033,8 @@
             "text": "32 What shall then answer the messengers of the nations? That the Lord hath founded aZion, and the bpoor of his people shall trust in it."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "25",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/25?lang=eng",
         "verses": [
@@ -5294,11 +5159,8 @@
             "text": "30 And, inasmuch as it shall be expedient, ye must keep the aperformances and bordinances of God until the law shall be fulfilled which was given unto Moses."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "26",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/26?lang=eng",
         "verses": [
@@ -5435,11 +5297,8 @@
             "text": "33 For none of these iniquities come of the Lord; for he doeth that which is good among the children of men; and he doeth nothing save it be plain unto the children of men; and he ainviteth them ball to ccome unto him and partake of his goodness; and he ddenieth none that come unto him, black and white, ebond and free, male and female; and he remembereth the fheathen; and all are alike unto God, both Jew and Gentile."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "27",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/27?lang=eng",
         "verses": [
@@ -5584,11 +5443,8 @@
             "text": "35 They also that aerred in spirit shall come to understanding, and they that murmured shall blearn doctrine."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "28",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/28?lang=eng",
         "verses": [
@@ -5721,11 +5577,8 @@
             "text": "32 aWo be unto the Gentiles, saith the Lord God of Hosts! For notwithstanding I shall lengthen out mine arm unto them from day to day, they will deny me; nevertheless, I will be merciful unto them, saith the Lord God, if they will repent and bcome unto me; for mine carm is lengthened out all the day long, saith the Lord God of Hosts."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "29",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/29?lang=eng",
         "verses": [
@@ -5786,11 +5639,8 @@
             "text": "14 And it shall come to pass that my people, which are of the ahouse of Israel, shall be gathered home unto the blands of their possessions; and my word also shall be gathered in cone. And I will show unto them that fight against my word and against my dpeople, who are of the ehouse of Israel, that I am God, and that I fcovenanted with gAbraham that I would remember his hseed iforever."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "30",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/30?lang=eng",
         "verses": [
@@ -5867,11 +5717,8 @@
             "text": "18 Wherefore, all things which have been revealed unto the children of men shall at that aday be revealed; and Satan shall have power over the hearts of the children of men bno more, for a long time. And now, my beloved brethren, I make an end of my sayings."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "31",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/31?lang=eng",
         "verses": [
@@ -5960,11 +5807,8 @@
             "text": "21 And now, behold, my beloved brethren, this is the away; and there is bnone other way nor cname given under heaven whereby man can be saved in the kingdom of God. And now, behold, this is the ddoctrine of Christ, and the only and true doctrine of the eFather, and of the Son, and of the Holy Ghost, which is fone God, without end. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "32",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/32?lang=eng",
         "verses": [
@@ -6005,11 +5849,8 @@
             "text": "9 But behold, I say unto you that ye must apray always, and not faint; that ye must not perform any thing unto the Lord save in the first place ye shall bpray unto the Father in the cname of Christ, that he will dconsecrate thy performance unto thee, that thy performance may be for the ewelfare of thy soul."
           }
         ]
-      }
-    },
-    {
-      "book": "The Second Book of Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "33",
         "link": "https://www.lds.org/scriptures/bofm/2-ne/33?lang=eng",
         "verses": [
@@ -6075,12 +5916,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Jacob",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/jacob/1?lang=eng",
         "verses": [
@@ -6161,11 +6002,8 @@
             "text": "19 And we did amagnify our office unto the Lord, taking upon us the bresponsibility, answering the sins of the people upon our own heads if we did not cteach them the word of God with all diligence; wherefore, by laboring with our might their dblood might not come upon our garments; otherwise their blood would come upon our garments, and we would not be found spotless at the last day."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/jacob/2?lang=eng",
         "verses": [
@@ -6310,11 +6148,8 @@
             "text": "35 Behold, ye have done agreater iniquities than the Lamanites, our brethren. Ye have broken the hearts of your tender wives, and lost the confidence of your children, because of your bad examples before them; and the sobbings of their hearts ascend up to God against you. And because of the bstrictness of the word of God, which cometh down against you, many hearts died, pierced with deep wounds."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/jacob/3?lang=eng",
         "verses": [
@@ -6375,11 +6210,8 @@
             "text": "14 aThese plates are called the plates of Jacob, and they were bmade by the hand of Nephi. And I make an end of speaking these words."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/jacob/4?lang=eng",
         "verses": [
@@ -6456,11 +6288,8 @@
             "text": "18 Behold, my beloved brethren, I will unfold this mystery unto you; if I do not, by any means, get shaken from my firmness in the Spirit, and stumble because of my over anxiety for you."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/jacob/5?lang=eng",
         "verses": [
@@ -6773,11 +6602,8 @@
             "text": "77 And when the time cometh that evil fruit shall again come into my vineyard, then will I cause the agood and the bad to be gathered; and the good will I preserve unto myself, and the bad will I cast away into its own place. And then cometh the bseason and the end; and my vineyard will I cause to be cburned with dfire."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/jacob/6?lang=eng",
         "verses": [
@@ -6831,11 +6657,8 @@
             "text": "13 Finally, I bid you farewell, until I shall meet you before the apleasing bar of God, which bar striketh the wicked with bawful dread and fear. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Jacob",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/jacob/7?lang=eng",
         "verses": [
@@ -6949,12 +6772,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Enos",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Enos",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/enos/1?lang=eng",
         "verses": [
@@ -7065,12 +6888,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Jarom",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Jarom",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/jarom/1?lang=eng",
         "verses": [
@@ -7136,12 +6959,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Omni",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Omni",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/omni/1?lang=eng",
         "verses": [
@@ -7267,12 +7090,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Words of Mormon",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Words of Mormon",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/w-of-m/1?lang=eng",
         "verses": [
@@ -7350,12 +7173,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Mosiah",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/1?lang=eng",
         "verses": [
@@ -7432,11 +7255,8 @@
             "text": "18 And now, it came to pass that Mosiah went and did as his father had commanded him, and proclaimed unto all the people who were in the land of Zarahemla that thereby they might gather themselves together, to go up to the atemple to hear the words which his father should speak unto them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/2?lang=eng",
         "verses": [
@@ -7605,11 +7425,8 @@
             "text": "41 And moreover, I would desire that ye should consider on the blessed and ahappy state of those that keep the commandments of God. For behold, they are bblessed in all things, both temporal and spiritual; and if they hold out cfaithful to the end they are received into dheaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/3?lang=eng",
         "verses": [
@@ -7722,11 +7539,8 @@
             "text": "27 And their atorment is as a blake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up cforever and ever. Thus hath the Lord commanded me. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/4?lang=eng",
         "verses": [
@@ -7851,11 +7665,8 @@
             "text": "30 But this much I can tell you, that if ye do not awatch yourselves, and your bthoughts, and your cwords, and your deeds, and observe the commandments of God, and dcontinue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/5?lang=eng",
         "verses": [
@@ -7920,11 +7731,8 @@
             "text": "15 Therefore, I would that ye should be steadfast and immovable, always abounding in agood works, that Christ, the bLord God Omnipotent, may cseal you his, that you may be brought to heaven, that ye may have everlasting salvation and eternal life, through the wisdom, and power, and justice, and mercy of him who dcreated all things, in heaven and in earth, who is God above all. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/6?lang=eng",
         "verses": [
@@ -7957,11 +7765,8 @@
             "text": "7 And king Mosiah did cause his people that they should till the earth. And he also, himself, did till the earth, that thereby he might anot become burdensome to his people, that he might do according to that which his father had done in all things. And there was no contention among all his people for the space of three years."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/7?lang=eng",
         "verses": [
@@ -8098,11 +7903,8 @@
             "text": "33 But if ye will aturn to the Lord with full purpose of heart, and put your trust in him, and serve him with all bdiligence of mind, if ye do this, he will, according to his own will and pleasure, deliver you out of bondage."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/8?lang=eng",
         "verses": [
@@ -8191,11 +7993,8 @@
             "text": "21 Yea, they are as a wild flock which fleeth from the shepherd, and scattereth, and are driven, and are devoured by the beasts of the forest."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/9?lang=eng",
         "verses": [
@@ -8276,11 +8075,8 @@
             "text": "19 And I, myself, with mine own hands, did help to bury their dead. And behold, to our great sorrow and lamentation, two hundred and seventy-nine of our brethren were slain."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/10?lang=eng",
         "verses": [
@@ -8373,11 +8169,8 @@
             "text": "22 And now I, being old, did confer the kingdom upon one of my sons; therefore, I say no more. And may the Lord abless my people. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/11?lang=eng",
         "verses": [
@@ -8498,11 +8291,8 @@
             "text": "29 Now the eyes of the people were ablinded; therefore they bhardened their hearts against the words of Abinadi, and they sought from that time forward to take him. And king Noah hardened his heart against the word of the Lord, and he did not repent of his evil doings."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/12?lang=eng",
         "verses": [
@@ -8655,11 +8445,8 @@
             "text": "37 Now Abinadi said unto them, Have ye done all this? I say unto you, Nay, ye have not. And have ye ataught this people that they should do all these things? I say unto you, Nay, ye have not."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/13?lang=eng",
         "verses": [
@@ -8801,11 +8588,8 @@
             "text": "35 Yea, and have they not said also that he should bring to pass the aresurrection of the dead, and that he, himself, should be oppressed and afflicted?"
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/14?lang=eng",
         "verses": [
@@ -8858,11 +8642,8 @@
             "text": "12 Therefore will I divide him a portion with the agreat, and bhe shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made cintercession for the transgressors."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/15?lang=eng",
         "verses": [
@@ -8991,11 +8772,8 @@
             "text": "31 The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the asalvation of our God."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "16",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/16?lang=eng",
         "verses": [
@@ -9060,11 +8838,8 @@
             "text": "15 Teach them that redemption cometh through Christ the Lord, who is the very aEternal Father. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "17",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/17?lang=eng",
         "verses": [
@@ -9149,11 +8924,8 @@
             "text": "20 And now, when aAbinadi had said these words, he fell, having suffered death by fire; yea, having been put to death because he would not deny the commandments of God, having sealed the truth of his words by his bdeath."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "18",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/18?lang=eng",
         "verses": [
@@ -9298,11 +9070,8 @@
             "text": "35 And they were in number about afour hundred and fifty souls."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "19",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/19?lang=eng",
         "verses": [
@@ -9423,11 +9192,8 @@
             "text": "29 And now king Limhi did have continual peace in his kingdom for the space of two years, that the Lamanites did not molest them nor seek to destroy them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "20",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/20?lang=eng",
         "verses": [
@@ -9536,11 +9302,8 @@
             "text": "26 And when the Lamanites saw the people of Limhi, that they were without arms, they had acompassion on them and were pacified towards them, and returned with their king in peace to their own land."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "21",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/21?lang=eng",
         "verses": [
@@ -9689,11 +9452,8 @@
             "text": "36 And now all the study of Ammon and ahis people, and king Limhi and his people, was to deliver themselves out of the hands of the Lamanites and from bbondage."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "22",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/22?lang=eng",
         "verses": [
@@ -9762,11 +9522,8 @@
             "text": "16 And after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "23",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/23?lang=eng",
         "verses": [
@@ -9927,11 +9684,8 @@
             "text": "39 And the king of the Lamanites had granted unto Amulon that he should be a king and a ruler over his people, who were in the land of Helam; nevertheless he should have no power to do anything contrary to the will of the king of the Lamanites."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "24",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/24?lang=eng",
         "verses": [
@@ -10036,11 +9790,8 @@
             "text": "25 And after they had been in the wilderness atwelve days they arrived in the land of Zarahemla; and king Mosiah did also breceive them with joy."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "25",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/25?lang=eng",
         "verses": [
@@ -10141,11 +9892,8 @@
             "text": "24 And they were called the apeople of God. And the Lord did pour out his bSpirit upon them, and they were blessed, and prospered in the land."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "26",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/26?lang=eng",
         "verses": [
@@ -10306,11 +10054,8 @@
             "text": "39 And they did admonish their brethren; and they were also aadmonished, every one by the word of God, according to his sins, or to the sins which he had committed, being commanded of God to bpray without ceasing, and to give cthanks in all things."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "27",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/27?lang=eng",
         "verses": [
@@ -10463,11 +10208,8 @@
             "text": "37 And how blessed are they! For they did apublish bpeace; they did publish good tidings of good; and they did declare unto the people that the Lord reigneth."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "28",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/28?lang=eng",
         "verses": [
@@ -10552,11 +10294,8 @@
             "text": "20 And now, as I said unto you, that after king Mosiah had done these things, he took the plates of abrass, and all the things which he had kept, and bconferred them upon Alma, who was the son of Alma; yea, all the records, and also the cinterpreters, and conferred them upon him, and commanded him that he should keep and dpreserve them, and also keep a record of the people, handing them down from one generation to another, even as they had been handed down from the time that Lehi left Jerusalem."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mosiah",
-      "chapters": {
+      },
+      {
         "chapter": "29",
         "link": "https://www.lds.org/scriptures/bofm/mosiah/29?lang=eng",
         "verses": [
@@ -10750,12 +10489,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Alma",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/alma/1?lang=eng",
         "verses": [
@@ -10892,11 +10631,8 @@
             "text": "33 And it came to pass that by thus exercising the law upon them, every man suffering according to that which he had done, they became more still, and durst not commit any wickedness if it were known; therefore, there was much peace among the people of Nephi until the fifth year of the reign of the judges."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/alma/2?lang=eng",
         "verses": [
@@ -11053,11 +10789,8 @@
             "text": "38 And it came to pass that many died in the wilderness of their wounds, and were devoured by those beasts and also the vultures of the air; and their bones have been found, and have been heaped up on the earth."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/alma/3?lang=eng",
         "verses": [
@@ -11170,11 +10903,8 @@
             "text": "27 For every man receiveth awages of him whom he listeth to bobey, and this according to the words of the spirit of prophecy; therefore let it be according to the truth. And thus endeth the fifth year of the reign of the judges."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/alma/4?lang=eng",
         "verses": [
@@ -11259,11 +10989,8 @@
             "text": "20 And thus in the commencement of the ninth year of the reign of the judges over the people of Nephi, Alma delivered up the judgment-seat to aNephihah, and confined himself wholly to the bhigh priesthood of the holy order of God, to the ctestimony of the word, according to the spirit of revelation and prophecy."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/alma/5?lang=eng",
         "verses": [
@@ -11516,11 +11243,8 @@
             "text": "62 I speak by way of command unto you that belong to the church; and unto those who do not belong to the church I speak by way of invitation, saying: Come and be baptized unto repentance, that ye also may be partakers of the fruit of the atree of life."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/alma/6?lang=eng",
         "verses": [
@@ -11557,11 +11281,8 @@
             "text": "8 And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the atestimony of Jesus Christ, the Son of God, who should come to redeem his people from their sins, and the holy order by which he was called. And thus it is written. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/alma/7?lang=eng",
         "verses": [
@@ -11674,11 +11395,8 @@
             "text": "27 And now, may the apeace of God rest upon you, and upon your houses and lands, and upon your flocks and herds, and all that you possess, your women and your children, according to your faith and good works, from this time forth and forever. And thus I have spoken. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/alma/8?lang=eng",
         "verses": [
@@ -11811,19 +11529,150 @@
             "text": "32 And it came to pass that they went forth and began to preach and to prophesy unto the people, according to the spirit and power which the Lord had given them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/alma/9?lang=eng",
-        "verses": []
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+        "verses": [
+          {
+            "verse_number": "1",
+            "text": "1 And again, I, Alma, having been commanded of God that I should take Amulek and go forth and preach again unto this people, or the people who were in the city of aAmmonihah, it came to pass as I began to preach unto them, they began to contend with me, saying:"
+          },
+          {
+            "verse_number": "2",
+            "text": "2 Who art thou? Suppose ye that we shall believe the testimony of aone man, although he should preach unto us that the earth should pass away?"
+          },
+          {
+            "verse_number": "3",
+            "text": "3 Now they understood not the words which they spake; for they knew not that the earth should pass away."
+          },
+          {
+            "verse_number": "4",
+            "text": "4 And they said also: We will not believe thy words if thou shouldst prophesy that this great city should be destroyed in aone day."
+          },
+          {
+            "verse_number": "5",
+            "text": "5 Now they knew not that God could do such marvelous aworks, for they were a hard-hearted and a stiffnecked people."
+          },
+          {
+            "verse_number": "6",
+            "text": "6 And they said: aWho is God, that sendeth bno more authority than one man among this people, to declare unto them the truth of such great and marvelous things?"
+          },
+          {
+            "verse_number": "7",
+            "text": "7 And they stood forth to lay their hands on me; but behold, they did not. And I stood with boldness to declare unto them, yea, I did boldly testify unto them, saying:"
+          },
+          {
+            "verse_number": "8",
+            "text": "8 Behold, O ye wicked and perverse ageneration, how have ye forgotten the btradition of your fathers; yea, how soon ye have forgotten the commandments of God."
+          },
+          {
+            "verse_number": "9",
+            "text": "9 Do ye not remember that our father, Lehi, was brought out of Jerusalem by the ahand of God? Do ye not remember that they were all led by him through the wilderness?"
+          },
+          {
+            "verse_number": "10",
+            "text": "10 And have ye forgotten so soon how many times he adelivered our fathers out of the hands of their enemies, and preserved them from being destroyed, even by the hands of their own brethren?"
+          },
+          {
+            "verse_number": "11",
+            "text": "11 Yea, and if it had not been for his matchless power, and his mercy, and his along-suffering towards us, we should unavoidably have been cut off from the face of the earth long before this period of time, and perhaps been consigned to a state of bendless misery and woe."
+          },
+          {
+            "verse_number": "12",
+            "text": "12 Behold, now I say unto you that he commandeth you to repent; and except ye repent, ye can in nowise inherit the kingdom of God. But behold, this is not all—he has commanded you to repent, or he will utterly adestroy you from off the face of the earth; yea, he will visit you in his banger, and in his cfierce anger he will not turn away."
+          },
+          {
+            "verse_number": "13",
+            "text": "13 Behold, do ye not remember the words which he spake unto Lehi, saying that: aInasmuch as ye shall keep my commandments, ye shall prosper in the land? And again it is said that: Inasmuch as ye will not keep my commandments ye shall be cut off from the presence of the Lord."
+          },
+          {
+            "verse_number": "14",
+            "text": "14 Now I would that ye should remember, that inasmuch as the Lamanites have not kept the commandments of God, they have been acut off from the presence of the Lord. Now we see that the word of the Lord has been verified in this thing, and the Lamanites have been cut off from his presence, from the beginning of their transgressions in the land."
+          },
+          {
+            "verse_number": "15",
+            "text": "15 Nevertheless I say unto you, that it shall be more atolerable for them in the day of judgment than for you, if ye remain in your sins, yea, and even more tolerable for them in this life than for you, except ye repent."
+          },
+          {
+            "verse_number": "16",
+            "text": "16 For there are many promises which are aextended to the Lamanites; for it is because of the btraditions of their fathers that caused them to remain in their state of cignorance; therefore the Lord will be merciful unto them and dprolong their existence in the land."
+          },
+          {
+            "verse_number": "17",
+            "text": "17 And at some period of time they will be abrought to believe in his word, and to know of the incorrectness of the traditions of their fathers; and many of them will be saved, for the Lord will be merciful unto all who bcall on his name."
+          },
+          {
+            "verse_number": "18",
+            "text": "18 But behold, I say unto you that if ye persist in your wickedness that your days shall not be aprolonged in the land, for the bLamanites shall be sent upon you; and if ye repent not they shall come in a time when you know not, and ye shall be visited with cutter destruction; and it shall be according to the fierce danger of the Lord."
+          },
+          {
+            "verse_number": "19",
+            "text": "19 For he will not suffer you that ye shall live in your iniquities, to adestroy his people. I say unto you, Nay; he would rather suffer that the Lamanites might destroy all his people who are called the people of Nephi, if it were possible that they could bfall into sins and transgressions, after having had so much light and so much knowledge given unto them of the Lord their God;"
+          },
+          {
+            "verse_number": "20",
+            "text": "20 Yea, after having been such a highly favored people of the Lord; yea, after having been favored above every other anation, kindred, tongue, or people; after having had all things bmade known unto them, according to their desires, and their faith, and prayers, of that which has been, and which is, and which is to come;"
+          },
+          {
+            "verse_number": "21",
+            "text": "21 Having been avisited by the Spirit of God; having conversed with angels, and having been spoken unto by the voice of the Lord; and having the spirit of prophecy, and the spirit of revelation, and also many gifts, the gift of speaking with tongues, and the gift of preaching, and the gift of the Holy Ghost, and the gift of btranslation;"
+          },
+          {
+            "verse_number": "22",
+            "text": "22 Yea, and after having been adelivered of God out of the land of Jerusalem, by the hand of the Lord; having been bsaved from famine, and from sickness, and all manner of diseases of every kind; and they having waxed strong in battle, that they might not be destroyed; having been brought out of cbondage time after time, and having been kept and preserved until now; and they have been prospered until they are rich in all manner of things—"
+          },
+          {
+            "verse_number": "23",
+            "text": "23 And now behold I say unto you, that if this people, who have received so many blessings from the hand of the Lord, should transgress acontrary to the light and knowledge which they do have, I say unto you that if this be the case, that if they should fall into transgression, it would be far more btolerable for the Lamanites than for them."
+          },
+          {
+            "verse_number": "24",
+            "text": "24 For behold, the apromises of the Lord are extended to the Lamanites, but they are not unto you if ye transgress; for has not the Lord expressly promised and firmly decreed, that if ye will rebel against him that ye shall butterly be destroyed from off the face of the earth?"
+          },
+          {
+            "verse_number": "25",
+            "text": "25 And now for this cause, that ye may not be destroyed, the Lord has sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: aRepent ye, for the kingdom of heaven is nigh at hand;"
+          },
+          {
+            "verse_number": "26",
+            "text": "26 And anot many days hence the Son of God shall come in his bglory; and his glory shall be the glory of the Only Begotten of the Father, full of cgrace, equity, and truth, full of patience, dmercy, and long-suffering, quick to ehear the cries of his people and to answer their prayers."
+          },
+          {
+            "verse_number": "27",
+            "text": "27 And behold, he cometh to aredeem those who will be bbaptized unto repentance, through faith on his name."
+          },
+          {
+            "verse_number": "28",
+            "text": "28 Therefore, prepare ye the way of the Lord, for the time is at hand that all men shall reap a areward of their bworks, according to that which they have been—if they have been righteous they shall creap the salvation of their souls, according to the power and deliverance of Jesus Christ; and if they have been evil they shall reap the ddamnation of their souls, according to the power and captivation of the devil."
+          },
+          {
+            "verse_number": "29",
+            "text": "29 Now behold, this is the voice of the angel, crying unto the people."
+          },
+          {
+            "verse_number": "30",
+            "text": "30 And now, my abeloved brethren, for ye are my brethren, and ye ought to be beloved, and ye ought to bring forth works which are meet for repentance, seeing that your hearts have been grossly hardened against the word of God, and seeing that ye are a blost and a fallen people."
+          },
+          {
+            "verse_number": "31",
+            "text": "31 Now it came to pass that when I, Alma, had spoken these words, behold, the people were wroth with me because I said unto them that they were a hard-hearted and a astiffnecked people."
+          },
+          {
+            "verse_number": "32",
+            "text": "32 And also because I said unto them that they were a lost and a fallen people they were angry with me, and sought to lay their hands upon me, that they might cast me into prison."
+          },
+          {
+            "verse_number": "33",
+            "text": "33 But it came to pass that the Lord did not suffer them that they should take me aat that time and cast me into prison."
+          },
+          {
+            "verse_number": "34",
+            "text": "34 And it came to pass that Amulek went and stood forth, and began to preach unto them also. And now the awords of Amulek are not all written, nevertheless a part of his words are written in this book."
+          }
+        ]
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/alma/10?lang=eng",
         "verses": [
@@ -11956,11 +11805,8 @@
             "text": "32 Now the object of these lawyers was to get gain; and they got gain aaccording to their employ."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/alma/11?lang=eng",
         "verses": [
@@ -12143,11 +11989,8 @@
             "text": "46 Now, when Amulek had finished these words the people began again to be astonished, and also Zeezrom began to tremble. And thus ended the words of Amulek, or this is all that I have written."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/alma/12?lang=eng",
         "verses": [
@@ -12300,11 +12143,8 @@
             "text": "37 And now, my brethren, seeing we know these things, and they are true, let us repent, and harden not our hearts, that we aprovoke not the Lord our God to pull down his wrath upon us in these his second commandments which he has given unto us; but let us enter into the brest of God, which is prepared according to his word."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/alma/13?lang=eng",
         "verses": [
@@ -12433,11 +12273,8 @@
             "text": "31 And Alma spake many more words unto the people, which are not written in athis book."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/alma/14?lang=eng",
         "verses": [
@@ -12558,11 +12395,8 @@
             "text": "29 Now the people having heard a great noise came running together by multitudes to know the cause of it; and when they saw Alma and Amulek coming forth out of the prison, and the walls thereof had fallen to the earth, they were struck with great fear, and fled from the presence of Alma and Amulek even as a goat fleeth with her young from two lions; and thus they did flee from the presence of Alma and Amulek."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/alma/15?lang=eng",
         "verses": [
@@ -12643,11 +12477,8 @@
             "text": "19 And thus ended the tenth year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "16",
         "link": "https://www.lds.org/scriptures/bofm/alma/16?lang=eng",
         "verses": [
@@ -12736,11 +12567,8 @@
             "text": "21 And now after the church had been established throughout all the land—having got the avictory over the devil, and the word of God being preached in its purity in all the land, and the Lord pouring out his blessings upon the people—thus ended the fourteenth year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "17",
         "link": "https://www.lds.org/scriptures/bofm/alma/17?lang=eng",
         "verses": [
@@ -12901,11 +12729,8 @@
             "text": "39 And when he had driven them afar off, he returned and they watered their flocks and returned them to the pasture of the king, and then went in unto the king, bearing the arms which had been smitten off by the sword of Ammon, of those who sought to slay him; and they were carried in unto the king for a testimony of the things which they had done."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "18",
         "link": "https://www.lds.org/scriptures/bofm/alma/18?lang=eng",
         "verses": [
@@ -13079,11 +12904,8 @@
             "text": "43 And it came to pass that his aservants took him and carried him in unto his wife, and laid him upon a bed; and he lay as if he were dead for the space of two days and two nights; and his wife, and his sons, and his daughters mourned over him, after the manner of the Lamanites, greatly lamenting his loss."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "19",
         "link": "https://www.lds.org/scriptures/bofm/alma/19?lang=eng",
         "verses": [
@@ -13232,11 +13054,8 @@
             "text": "36 And thus the work of the Lord did commence among the Lamanites; thus the Lord did begin to pour out his aSpirit upon them; and we see that his arm is extended to ball people who will repent and believe on his name."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "20",
         "link": "https://www.lds.org/scriptures/bofm/alma/20?lang=eng",
         "verses": [
@@ -13361,11 +13180,8 @@
             "text": "30 And, as it happened, it was their lot to have fallen into the hands of a more hardened and a more astiffnecked people; therefore they would not hearken unto their words, and they had cast them out, and had smitten them, and had driven them from house to house, and from place to place, even until they had arrived in the land of Middoni; and there they were taken and cast into prison, and bound with bstrong cords, and kept in prison for many days, and were delivered by Lamoni and Ammon."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "21",
         "link": "https://www.lds.org/scriptures/bofm/alma/21?lang=eng",
         "verses": [
@@ -13462,11 +13278,8 @@
             "text": "23 And Ammon did preach unto the people of king Lamoni; and it came to pass that he did teach them all things concerning things pertaining to righteousness. And he did exhort them daily, with all diligence; and they gave heed unto his word, and they were azealous for keeping the commandments of God."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "22",
         "link": "https://www.lds.org/scriptures/bofm/alma/22?lang=eng",
         "verses": [
@@ -13611,11 +13424,8 @@
             "text": "35 And now I, after having said this, return again to the account of Ammon and Aaron, Omner and Himni, and their brethren."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "23",
         "link": "https://www.lds.org/scriptures/bofm/alma/23?lang=eng",
         "verses": [
@@ -13692,11 +13502,8 @@
             "text": "18 And they began to be a very aindustrious people; yea, and they were friendly with the Nephites; therefore, they did bopen a correspondence with them, and the ccurse of God did no more follow them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "24",
         "link": "https://www.lds.org/scriptures/bofm/alma/24?lang=eng",
         "verses": [
@@ -13821,11 +13628,8 @@
             "text": "30 And thus we can plainly discern, that after a people have been once aenlightened by the bSpirit of God, and have had great cknowledge of things pertaining to righteousness, and then have dfallen away into sin and transgression, they become more ehardened, and thus their state becomes fworse than though they had never known these things."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "25",
         "link": "https://www.lds.org/scriptures/bofm/alma/25?lang=eng",
         "verses": [
@@ -13898,11 +13702,8 @@
             "text": "17 And now behold, Ammon, and Aaron, and Omner, and Himni, and their brethren did rejoice exceedingly, for the success which they had had among the Lamanites, seeing that the Lord had granted unto them according to their aprayers, and that he had also verified his word unto them in every particular."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "26",
         "link": "https://www.lds.org/scriptures/bofm/alma/26?lang=eng",
         "verses": [
@@ -14055,11 +13856,8 @@
             "text": "37 Now my brethren, we see that God is amindful of every bpeople, whatsoever land they may be in; yea, he numbereth his people, and his bowels of mercy are over all the earth. Now this is my joy, and my great thanksgiving; yea, and I will give thanks unto my God forever. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "27",
         "link": "https://www.lds.org/scriptures/bofm/alma/27?lang=eng",
         "verses": [
@@ -14184,11 +13982,8 @@
             "text": "30 And thus they were a zealous and beloved people, a highly favored people of the Lord."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "28",
         "link": "https://www.lds.org/scriptures/bofm/alma/28?lang=eng",
         "verses": [
@@ -14249,11 +14044,8 @@
             "text": "14 And thus we see the great call of adiligence of men to labor in the vineyards of the Lord; and thus we see the great reason of sorrow, and also of rejoicing—sorrow because of death and destruction among men, and joy because of the blight of Christ unto life."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "29",
         "link": "https://www.lds.org/scriptures/bofm/alma/29?lang=eng",
         "verses": [
@@ -14326,11 +14118,8 @@
             "text": "17 And now may God grant unto these, my brethren, that they may sit down in the kingdom of God; yea, and also all those who are the fruit of their labors that they may go no more out, but that they may praise him forever. And may God grant that it may be done according to my words, even as I have spoken. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "30",
         "link": "https://www.lds.org/scriptures/bofm/alma/30?lang=eng",
         "verses": [
@@ -14569,11 +14358,8 @@
             "text": "60 And thus we see the end of him who aperverteth the ways of the Lord; and thus we see that the devil will not bsupport his children at the last day, but doth speedily drag them down to chell."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "31",
         "link": "https://www.lds.org/scriptures/bofm/alma/31?lang=eng",
         "verses": [
@@ -14730,11 +14516,8 @@
             "text": "38 And the Lord provided for them that they should hunger not, neither should they thirst; yea, and he also gave them strength, that they should suffer no manner of aafflictions, save it were swallowed up in the joy of Christ. Now this was according to the prayer of Alma; and this because he prayed in bfaith."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "32",
         "link": "https://www.lds.org/scriptures/bofm/alma/32?lang=eng",
         "verses": [
@@ -14911,11 +14694,8 @@
             "text": "43 Then, my brethren, ye shall areap the brewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth cfruit unto you."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "33",
         "link": "https://www.lds.org/scriptures/bofm/alma/33?lang=eng",
         "verses": [
@@ -15012,11 +14792,8 @@
             "text": "23 And now, my brethren, I desire that ye shall aplant this word in your hearts, and as it beginneth to swell even so nourish it by your faith. And behold, it will become a tree, bspringing up in you unto ceverlasting life. And then may God grant unto you that your dburdens may be light, through the joy of his Son. And even all this can ye do if ye ewill. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "34",
         "link": "https://www.lds.org/scriptures/bofm/alma/34?lang=eng",
         "verses": [
@@ -15185,11 +14962,8 @@
             "text": "41 But that ye have apatience, and bear with those bafflictions, with a firm hope that ye shall one day rest from all your afflictions."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "35",
         "link": "https://www.lds.org/scriptures/bofm/alma/35?lang=eng",
         "verses": [
@@ -15258,11 +15032,8 @@
             "text": "16 Therefore, he caused that his sons should be gathered together, that he might give unto them every one his acharge, separately, concerning the things pertaining unto righteousness. And we have an account of his commandments, which he gave unto them according to his own record."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "36",
         "link": "https://www.lds.org/scriptures/bofm/alma/36?lang=eng",
         "verses": [
@@ -15387,11 +15158,8 @@
             "text": "30 But behold, my son, this is not all; for ye ought to know as I do know, that ainasmuch as ye shall keep the commandments of God ye shall bprosper in the land; and ye ought to know also, that inasmuch as ye will not keep the commandments of God ye shall be cut off from his presence. Now this is according to his word."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "37",
         "link": "https://www.lds.org/scriptures/bofm/alma/37?lang=eng",
         "verses": [
@@ -15584,11 +15352,8 @@
             "text": "47 And now, my son, see that ye take acare of these sacred things, yea, see that ye blook to God and live. Go unto this people and declare the word, and be sober. My son, farewell."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "38",
         "link": "https://www.lds.org/scriptures/bofm/alma/38?lang=eng",
         "verses": [
@@ -15653,11 +15418,8 @@
             "text": "15 And may the Lord bless your soul, and receive you at the last day into his kingdom, to sit down in peace. Now go, my son, and teach the word unto this people. Be asober. My son, farewell."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "39",
         "link": "https://www.lds.org/scriptures/bofm/alma/39?lang=eng",
         "verses": [
@@ -15738,11 +15500,8 @@
             "text": "19 Is it not as easy at this time for the Lord to asend his angel to declare these glad tidings unto us as unto our children, or as after the time of his coming?"
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "40",
         "link": "https://www.lds.org/scriptures/bofm/alma/40?lang=eng",
         "verses": [
@@ -15851,11 +15610,8 @@
             "text": "26 But behold, an awful adeath cometh upon the wicked; for they die as to things pertaining to things of righteousness; for they are unclean, and bno unclean thing can inherit the kingdom of God; but they are cast out, and consigned to partake of the fruits of their labors or their works, which have been evil; and they drink the dregs of a bitter ccup."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "41",
         "link": "https://www.lds.org/scriptures/bofm/alma/41?lang=eng",
         "verses": [
@@ -15920,11 +15676,8 @@
             "text": "15 For that which ye do asend out shall return unto you again, and be restored; therefore, the word restoration more fully condemneth the sinner, and justifieth him not at all."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "42",
         "link": "https://www.lds.org/scriptures/bofm/alma/42?lang=eng",
         "verses": [
@@ -16053,11 +15806,8 @@
             "text": "31 And now, O my son, ye are called of God to apreach the word unto this people. And now, my son, go thy way, declare the word with truth and soberness, that thou mayest bbring souls unto repentance, that the great plan of mercy may have claim upon them. And may God grant unto you even according to my words. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "43",
         "link": "https://www.lds.org/scriptures/bofm/alma/43?lang=eng",
         "verses": [
@@ -16278,11 +16028,8 @@
             "text": "54 Now Moroni, when he saw their aterror, commanded his men that they should stop shedding their blood."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "44",
         "link": "https://www.lds.org/scriptures/bofm/alma/44?lang=eng",
         "verses": [
@@ -16383,11 +16130,8 @@
             "text": "24 And thus ended the eighteenth year of the reign of the judges over the people of Nephi. And thus ended the record of Alma, which was written upon the plates of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "45",
         "link": "https://www.lds.org/scriptures/bofm/alma/45?lang=eng",
         "verses": [
@@ -16488,11 +16232,8 @@
             "text": "24 But they grew proud, being lifted up in their hearts, because of their exceedingly great ariches; therefore they grew rich in their own eyes, and would not give heed to their words, to bwalk uprightly before God."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "46",
         "link": "https://www.lds.org/scriptures/bofm/alma/46?lang=eng",
         "verses": [
@@ -16661,11 +16402,8 @@
             "text": "41 But there were many who died with aold age; and those who died in the faith of Christ are bhappy in him, as we must needs suppose."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "47",
         "link": "https://www.lds.org/scriptures/bofm/alma/47?lang=eng",
         "verses": [
@@ -16814,11 +16552,8 @@
             "text": "36 Now these adissenters, having the same instruction and the same information of the Nephites, yea, having been instructed in the same bknowledge of the Lord, nevertheless, it is strange to relate, not long after their dissensions they became more hardened and cimpenitent, and more wild, wicked and ferocious than the Lamanites—drinking in with the dtraditions of the Lamanites; giving way to eindolence, and all manner of lasciviousness; yea, entirely forgetting the Lord their God."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "48",
         "link": "https://www.lds.org/scriptures/bofm/alma/48?lang=eng",
         "verses": [
@@ -16923,11 +16658,8 @@
             "text": "25 Yea, they could not bear that their brethren should rejoice over the blood of the Nephites, so long as there were any who should keep the commandments of God, for the promise of the Lord was, if they should keep his commandments they should aprosper in the land."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "49",
         "link": "https://www.lds.org/scriptures/bofm/alma/49?lang=eng",
         "verses": [
@@ -17052,11 +16784,8 @@
             "text": "30 Yea, and there was continual peace among them, and exceedingly great prosperity in the church because of their heed and diligence which they gave unto the word of God, which was declared unto them by Helaman, and Shiblon, and Corianton, and Ammon and his brethren, yea, and by all those who had been ordained by the aholy order of God, being baptized unto repentance, and sent forth to preach among the people."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "50",
         "link": "https://www.lds.org/scriptures/bofm/alma/50?lang=eng",
         "verses": [
@@ -17221,11 +16950,8 @@
             "text": "40 Now behold, his name was aPahoran. And Pahoran did fill the seat of his father, and did commence his reign in the end of the twenty and fourth year, over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "51",
         "link": "https://www.lds.org/scriptures/bofm/alma/51?lang=eng",
         "verses": [
@@ -17378,11 +17104,8 @@
             "text": "37 And thus endeth the twenty and fifth year of the reign of the judges over the people of Nephi; and thus endeth the days of Amalickiah."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "52",
         "link": "https://www.lds.org/scriptures/bofm/alma/52?lang=eng",
         "verses": [
@@ -17547,11 +17270,8 @@
             "text": "40 And now the number of prisoners who were taken exceeded more than the number of those who had been slain, yea, more than those who had been slain on both sides."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "53",
         "link": "https://www.lds.org/scriptures/bofm/alma/53?lang=eng",
         "verses": [
@@ -17648,11 +17368,8 @@
             "text": "23 And thus ended the twenty and eighth year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "54",
         "link": "https://www.lds.org/scriptures/bofm/alma/54?lang=eng",
         "verses": [
@@ -17753,11 +17470,8 @@
             "text": "24 And behold now, I am a bold Lamanite; behold, this war hath been waged to avenge their wrongs, and ato maintain and to obtain their rights to the government; and I close my epistle to Moroni."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "55",
         "link": "https://www.lds.org/scriptures/bofm/alma/55?lang=eng",
         "verses": [
@@ -17902,11 +17616,8 @@
             "text": "35 And thus ended the twenty and ninth year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "56",
         "link": "https://www.lds.org/scriptures/bofm/alma/56?lang=eng",
         "verses": [
@@ -18139,11 +17850,8 @@
             "text": "57 And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men who were not slain of Antipus, with them; and the remainder I took and joined them to my stripling aAmmonites, and took our march back to the city of Judea."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "57",
         "link": "https://www.lds.org/scriptures/bofm/alma/57?lang=eng",
         "verses": [
@@ -18292,11 +18000,8 @@
             "text": "36 Now it came to pass that when I, Helaman, had heard these words of Gid, I was filled with exceeding joy because of the goodness of God in preserving us, that we might not all perish; yea, and I trust that the souls of them who have been slain have aentered into the rest of their God."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "58",
         "link": "https://www.lds.org/scriptures/bofm/alma/58?lang=eng",
         "verses": [
@@ -18465,11 +18170,8 @@
             "text": "41 And now, my beloved brother, Moroni, may the Lord our God, who has redeemed us and made us free, keep you continually in his presence; yea, and may he favor this people, even that ye may have success in obtaining the possession of all that which the Lamanites have taken from us, which was for our support. And now, behold, I close mine epistle. I am Helaman, the son of Alma."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "59",
         "link": "https://www.lds.org/scriptures/bofm/alma/59?lang=eng",
         "verses": [
@@ -18526,11 +18228,8 @@
             "text": "13 And it came to pass that Moroni was angry with the government, because of their aindifference concerning the freedom of their country."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "60",
         "link": "https://www.lds.org/scriptures/bofm/alma/60?lang=eng",
         "verses": [
@@ -18679,11 +18378,8 @@
             "text": "36 Behold, I am Moroni, your chief captain. I aseek not for power, but to pull it down. I bseek not for honor of the world, but for the glory of my God, and the freedom and welfare of my country. And thus I close mine epistle."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "61",
         "link": "https://www.lds.org/scriptures/bofm/alma/61?lang=eng",
         "verses": [
@@ -18772,11 +18468,8 @@
             "text": "21 See that ye astrengthen Lehi and Teancum in the Lord; tell them to fear not, for God will deliver them, yea, and also all those who bstand fast in that liberty wherewith God hath made them free. And now I close mine epistle to my beloved brother, Moroni."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "62",
         "link": "https://www.lds.org/scriptures/bofm/alma/62?lang=eng",
         "verses": [
@@ -18989,11 +18682,8 @@
             "text": "52 And it came to pass that all these things were done. And aHelaman died, in the thirty and fifth year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Alma",
-      "chapters": {
+      },
+      {
         "chapter": "63",
         "link": "https://www.lds.org/scriptures/bofm/alma/63?lang=eng",
         "verses": [
@@ -19067,12 +18757,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Helaman",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/hel/1?lang=eng",
         "verses": [
@@ -19213,11 +18903,8 @@
             "text": "34 And thus ended the forty and first year of the reign of the judges."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/hel/2?lang=eng",
         "verses": [
@@ -19278,11 +18965,8 @@
             "text": "14 Behold I do not mean the end of the abook of Helaman, but I mean the end of the book of Nephi, from which I have taken all the account which I have written."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/hel/3?lang=eng",
         "verses": [
@@ -19435,11 +19119,8 @@
             "text": "37 And it came to pass in the fifty and third year of the reign of the judges, aHelaman died, and his eldest son bNephi began to reign in his stead. And it came to pass that he did fill the judgment-seat with justice and equity; yea, he did keep the commandments of God, and did walk in the ways of his father."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/hel/4?lang=eng",
         "verses": [
@@ -19548,11 +19229,8 @@
             "text": "26 For behold, they saw that the strength of the Lamanites was as great as their strength, even man for man. And thus had they fallen into this great transgression; yea, thus had they become aweak, because of their transgression, in the space of bnot many years."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/hel/5?lang=eng",
         "verses": [
@@ -19765,11 +19443,8 @@
             "text": "52 And it came to pass that they did ayield up unto the Nephites the lands of their possession."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/hel/6?lang=eng",
         "verses": [
@@ -19938,11 +19613,8 @@
             "text": "41 And it came to pass that thus ended the sixty and eighth year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/hel/7?lang=eng",
         "verses": [
@@ -20063,11 +19735,8 @@
             "text": "29 Behold now, I do not say that these things shall be, of myself, because it is not of myself that I aknow these things; but behold, I bknow that these things are true because the Lord God has made them known unto me, therefore I testify that they shall be."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/hel/8?lang=eng",
         "verses": [
@@ -20184,11 +19853,8 @@
             "text": "28 And behold, they both belong to your secret band, whose aauthor is Gadianton and the evil one who seeketh to destroy the souls of men."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/hel/9?lang=eng",
         "verses": [
@@ -20357,11 +20023,8 @@
             "text": "41 And there were others who said: Behold, he is a god, for except he was a god he could not aknow of all things. For behold, he has told us the thoughts of our hearts, and also has told us things; and even he has brought unto our knowledge the true murderer of our chief judge."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/hel/10?lang=eng",
         "verses": [
@@ -20442,11 +20105,8 @@
             "text": "19 And thus ended the seventy and first year of the reign of the judges over the people of Nephi."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/hel/11?lang=eng",
         "verses": [
@@ -20603,11 +20263,8 @@
             "text": "38 And thus ended the eighty and fifth year."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/hel/12?lang=eng",
         "verses": [
@@ -20716,11 +20373,8 @@
             "text": "26 Yea, who shall be consigned to a state of endless misery, fulfilling the words which say: They that have done good shall have aeverlasting life; and they that have done evil shall have everlasting bdamnation. And thus it is. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/hel/13?lang=eng",
         "verses": [
@@ -20881,11 +20535,8 @@
             "text": "39 O ye people of the land, that ye would hear my words! And I pray that the anger of the Lord be turned away from you, and that ye would repent and be saved."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/hel/14?lang=eng",
         "verses": [
@@ -21014,11 +20665,8 @@
             "text": "31 He hath given unto you that ye might aknow good from evil, and he hath given unto you that ye might bchoose life or death; and ye can do good and be crestored unto that which is good, or have that which is good restored unto you; or ye can do evil, and have that which is evil restored unto you."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/hel/15?lang=eng",
         "verses": [
@@ -21091,11 +20739,8 @@
             "text": "17 And now behold, saith the Lord, concerning the people of the Nephites: If they will not repent, and observe to do my will, I will utterly adestroy them, saith the Lord, because of their unbelief notwithstanding the many mighty works which I have done among them; and as surely as the Lord liveth shall these things be, saith the Lord."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Helaman",
-      "chapters": {
+      },
+      {
         "chapter": "16",
         "link": "https://www.lds.org/scriptures/bofm/hel/16?lang=eng",
         "verses": [
@@ -21201,12 +20846,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "Third Nephi",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "Third Nephi",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/1?lang=eng",
         "verses": [
@@ -21331,11 +20976,8 @@
             "text": "30 And thus were the Lamanites afflicted also, and began to decrease as to their faith and righteousness, because of the wickedness of the arising generation."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/2?lang=eng",
         "verses": [
@@ -21416,11 +21058,8 @@
             "text": "19 And thus ended the fifteenth year, and thus were the people in a state of many afflictions; and the asword of destruction did hang over them, insomuch that they were about to be smitten down by it, and this because of their iniquity."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/3?lang=eng",
         "verses": [
@@ -21529,11 +21168,8 @@
             "text": "26 And they were exceedingly sorrowful because of their enemies. And Gidgiddoni did cause that they should make aweapons of war of every kind, and they should be strong with armor, and with shields, and with bucklers, after the manner of his instruction."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/4?lang=eng",
         "verses": [
@@ -21670,11 +21306,8 @@
             "text": "33 And their hearts were swollen with joy, unto the gushing out of many tears, because of the great goodness of God in delivering them out of the hands of their enemies; and they knew it was because of their repentance and their humility that they had been delivered from an everlasting destruction."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/5?lang=eng",
         "verses": [
@@ -21783,11 +21416,8 @@
             "text": "26 And then shall they aknow their Redeemer, who is Jesus Christ, the Son of God; and then shall they be gathered in from the four quarters of the earth unto their own lands, from whence they have been dispersed; yea, as the Lord liveth so shall it be. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/6?lang=eng",
         "verses": [
@@ -21912,11 +21542,8 @@
             "text": "30 And they did set at defiance the law and the rights of their country; and they did covenant one with another to destroy the governor, and to establish a aking over the land, that the land should no more be at bliberty but should be subject unto kings."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/7?lang=eng",
         "verses": [
@@ -22025,11 +21652,8 @@
             "text": "26 And there were many in the commencement of this year that were baptized unto repentance; and thus the more part of the year did pass away."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/8?lang=eng",
         "verses": [
@@ -22134,11 +21758,8 @@
             "text": "25 And in another place they were heard to cry and mourn, saying: O that we had repented before this great and terrible day, and had not killed and stoned the prophets, and cast them out; then would our mothers and our fair daughters, and our children have been spared, and not have been buried up in that great city aMoronihah. And thus were the howlings of the people great and terrible."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/9?lang=eng",
         "verses": [
@@ -22231,11 +21852,8 @@
             "text": "22 Therefore, whoso arepenteth and cometh unto me bas a clittle child, him will I receive, for of such is the kingdom of God. Behold, for such I have dlaid down my life, and have taken it up again; therefore repent, and come unto me ye ends of the earth, and be saved."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/10?lang=eng",
         "verses": [
@@ -22316,11 +21934,8 @@
             "text": "19 aShowing his body unto them, and ministering unto them; and an account of his ministry shall be given hereafter. Therefore for this time I make an end of my sayings."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/11?lang=eng",
         "verses": [
@@ -22489,11 +22104,8 @@
             "text": "41 Therefore, go forth unto this people, and declare the words which I have spoken, unto the ends of the earth."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/12?lang=eng",
         "verses": [
@@ -22690,11 +22302,8 @@
             "text": "48 Therefore I would that ye should be aperfect even as I, or your Father who is in heaven is perfect."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/13?lang=eng",
         "verses": [
@@ -22835,11 +22444,8 @@
             "text": "34 Take therefore no thought for the morrow, for the morrow shall take thought for the things of itself. aSufficient is the day unto the evil thereof."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/14?lang=eng",
         "verses": [
@@ -22952,11 +22558,8 @@
             "text": "27 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell, and great was the fall of it."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/15?lang=eng",
         "verses": [
@@ -23057,11 +22660,8 @@
             "text": "24 But behold, ye have both heard amy voice, and seen me; and ye are my sheep, and ye are numbered among those whom the Father hath bgiven me."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "16",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/16?lang=eng",
         "verses": [
@@ -23146,11 +22746,8 @@
             "text": "20 The Lord hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of God."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "17",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/17?lang=eng",
         "verses": [
@@ -23255,11 +22852,8 @@
             "text": "25 And the multitude did see and ahear and bear record; and they know that their record is true for they all of them did see and hear, every man for himself; and they were in number about two thousand and five hundred souls; and they did consist of men, women, and children."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "18",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/18?lang=eng",
         "verses": [
@@ -23420,11 +23014,8 @@
             "text": "39 And while they were overshadowed he adeparted from them, and ascended into heaven. And the disciples saw and did bear record that he ascended again into heaven."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "19",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/19?lang=eng",
         "verses": [
@@ -23573,11 +23164,8 @@
             "text": "36 Verily I say unto you, there are none of them that have seen so great things as ye have seen; neither have they heard so great things as ye have heard."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "20",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/20?lang=eng",
         "verses": [
@@ -23766,11 +23354,8 @@
             "text": "46 Verily, verily, I say unto you, all these things shall surely come, even as the Father hath commanded me. Then shall this covenant which the Father hath covenanted with his people be fulfilled; and then shall aJerusalem be inhabited again with my people, and it shall be the land of their inheritance."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "21",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/21?lang=eng",
         "verses": [
@@ -23891,11 +23476,8 @@
             "text": "29 And they shall go out from all nations; and they shall anot go out in bhaste, nor go by flight, for I will go before them, saith the Father, and I will be their rearward."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "22",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/22?lang=eng",
         "verses": [
@@ -23968,11 +23550,8 @@
             "text": "17 No weapon that is formed against thee shall prosper; and every tongue that shall revile against thee in judgment thou shalt condemn. This is the heritage of the aservants of the Lord, and their righteousness is of me, saith the Lord."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "23",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/23?lang=eng",
         "verses": [
@@ -24033,11 +23612,8 @@
             "text": "14 And now it came to pass that when Jesus had aexpounded all the scriptures in one, which they had written, he commanded them that they should bteach the things which he had expounded unto them."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "24",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/24?lang=eng",
         "verses": [
@@ -24114,11 +23690,8 @@
             "text": "18 Then shall ye return and adiscern between the righteous and the wicked, between him that serveth God and him that serveth him not."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "25",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/25?lang=eng",
         "verses": [
@@ -24147,11 +23720,8 @@
             "text": "6 And he shall aturn the heart of the bfathers to the children, and the heart of the children to their fathers, lest I come and csmite the earth with a curse."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "26",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/26?lang=eng",
         "verses": [
@@ -24240,11 +23810,8 @@
             "text": "21 And they who were baptized in the name of Jesus were called the achurch of Christ."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "27",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/27?lang=eng",
         "verses": [
@@ -24381,11 +23948,8 @@
             "text": "33 And it came to pass that when Jesus had ended these sayings he said unto his disciples: Enter ye in at the astrait gate; for strait is the gate, and narrow is the way that leads to life, and few there be that find it; but wide is the gate, and broad the way which leads to death, and many there be that travel therein, until the night cometh, wherein no man can work."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "28",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/28?lang=eng",
         "verses": [
@@ -24550,11 +24114,8 @@
             "text": "40 And in this state they were to remain until the judgment day of Christ; and at that day they were to receive a greater change, and to be received into the kingdom of the Father to go no more out, but to dwell with God eternally in the heavens."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "29",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/29?lang=eng",
         "verses": [
@@ -24595,11 +24156,8 @@
             "text": "9 Therefore ye need not suppose that ye can turn the right hand of the Lord unto the left, that he may not execute judgment unto the fulfilling of the covenant which he hath made unto the house of Israel."
           }
         ]
-      }
-    },
-    {
-      "book": "Third Nephi",
-      "chapters": {
+      },
+      {
         "chapter": "30",
         "link": "https://www.lds.org/scriptures/bofm/3-ne/30?lang=eng",
         "verses": [
@@ -24613,12 +24171,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "Fourth Nephi",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "Fourth Nephi",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/4-ne/1?lang=eng",
         "verses": [
@@ -24820,12 +24378,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Mormon",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/morm/1?lang=eng",
         "verses": [
@@ -24906,11 +24464,8 @@
             "text": "19 And it came to pass that there were asorceries, and witchcrafts, and magics; and the power of the evil one was wrought upon all the face of the land, even unto the fulfilling of all the words of Abinadi, and also bSamuel the Lamanite."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/morm/2?lang=eng",
         "verses": [
@@ -25031,11 +24586,8 @@
             "text": "29 And the Lamanites did give unto us the land anorthward, yea, even to the bnarrow passage which led into the land southward. And we did give unto the Lamanites all the land southward."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/morm/3?lang=eng",
         "verses": [
@@ -25128,11 +24680,8 @@
             "text": "22 And I would that I could persuade aall ye ends of the earth to repent and prepare to stand before the judgment-seat of Christ."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/morm/4?lang=eng",
         "verses": [
@@ -25229,11 +24778,8 @@
             "text": "23 And now I, Mormon, seeing that the Lamanites were about to overthrow the land, therefore I did go to the hill aShim, and did take up all the brecords which Ammaron had hid up unto the Lord."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/morm/5?lang=eng",
         "verses": [
@@ -25334,11 +24880,8 @@
             "text": "24 Therefore, repent ye, and humble yourselves before him, lest he shall come out in justice against you—lest a aremnant of the seed of Jacob shall go forth among you as a blion, and tear you in pieces, and there is none to deliver."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/morm/6?lang=eng",
         "verses": [
@@ -25431,11 +24974,8 @@
             "text": "22 O that ye had repented before this great adestruction had come upon you. But behold, ye are gone, and the Father, yea, the Eternal Father of heaven, bknoweth your state; and he doeth with you according to his cjustice and dmercy."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/morm/7?lang=eng",
         "verses": [
@@ -25480,11 +25020,8 @@
             "text": "10 And ye will also know that ye are a aremnant of the seed of Jacob; therefore ye are numbered among the people of the first covenant; and if it so be that ye believe in Christ, and are baptized, first bwith water, then with fire and with the Holy Ghost, following the cexample of our Savior, according to that which he hath commanded us, it shall be well with you in the day of judgment. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/morm/8?lang=eng",
         "verses": [
@@ -25653,11 +25190,8 @@
             "text": "41 Behold, the sword of vengeance hangeth over you; and the time soon cometh that he avengeth the ablood of the saints upon you, for he will not suffer their cries any longer."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Mormon",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/morm/9?lang=eng",
         "verses": [
@@ -25811,12 +25345,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Ether",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/ether/1?lang=eng",
         "verses": [
@@ -25945,11 +25479,8 @@
             "text": "43 And there will I bless thee and thy seed, and raise up unto me of thy seed, and of the seed of thy brother, and they who shall go with thee, a great nation. And athere shall be none bgreater than the nation which I will raise up unto me of thy seed, upon all the face of the earth. And thus I will do unto thee because this long time ye have cried unto me."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/ether/2?lang=eng",
         "verses": [
@@ -26054,11 +25585,8 @@
             "text": "25 And behold, I prepare you against these things; for ye cannot cross this great deep save I prepare you against the waves of the sea, and the winds which have gone forth, and the floods which shall come. Therefore what will ye that I should prepare for you that ye may have light when ye are swallowed up in the depths of the sea?"
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/ether/3?lang=eng",
         "verses": [
@@ -26175,11 +25703,8 @@
             "text": "28 And it came to pass that the Lord commanded him that he should seal up the two astones which he had received, and show them not, until the Lord should show them unto the children of bmen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/ether/4?lang=eng",
         "verses": [
@@ -26260,11 +25785,8 @@
             "text": "19 And blessed is he that is found afaithful unto my name at the last day, for he shall be blifted up to dwell in the kingdom prepared for him cfrom the foundation of the world. And behold it is I that hath spoken it. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/ether/5?lang=eng",
         "verses": [
@@ -26293,11 +25815,8 @@
             "text": "6 And now, if I have no authority for these things, judge ye; for ye shall know that I have authority when ye shall see me, and we shall stand before God at the last day. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/ether/6?lang=eng",
         "verses": [
@@ -26422,11 +25941,8 @@
             "text": "30 And it came to pass that Orihah did walk humbly before the Lord, and did remember how great things the Lord had done for his father, and also taught his people how great things the Lord had done for their fathers."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/ether/7?lang=eng",
         "verses": [
@@ -26539,11 +26055,8 @@
             "text": "27 And there were no more wars in the days of Shule; and he remembered the great things that the Lord had done for his fathers in bringing them aacross the great deep into the promised land; wherefore he did execute judgment in righteousness all his days."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/ether/8?lang=eng",
         "verses": [
@@ -26652,11 +26165,8 @@
             "text": "26 Wherefore, I, Moroni, am commanded to write these things that evil may be done away, and that the time may come that Satan may have ano power upon the hearts of the children of men, but that they may be bpersuaded to do good continually, that they may come unto the fountain of all crighteousness and be saved."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/ether/9?lang=eng",
         "verses": [
@@ -26801,11 +26311,8 @@
             "text": "35 And it came to pass that when they had ahumbled themselves sufficiently before the Lord he did send rain upon the face of the earth; and the people began to revive again, and there began to be fruit in the north countries, and in all the countries round about. And the Lord did show forth his power unto them in preserving them from famine."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/ether/10?lang=eng",
         "verses": [
@@ -26946,11 +26453,8 @@
             "text": "34 Now Com did fight against them much; nevertheless, he did not prevail against them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "11",
         "link": "https://www.lds.org/scriptures/bofm/ether/11?lang=eng",
         "verses": [
@@ -27047,11 +26551,8 @@
             "text": "23 And it came to pass that Coriantor begat aEther, and he died, having dwelt in captivity all his days."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "12",
         "link": "https://www.lds.org/scriptures/bofm/ether/12?lang=eng",
         "verses": [
@@ -27220,11 +26721,8 @@
             "text": "41 And now, I would commend you to aseek this Jesus of whom the prophets and apostles have written, that the grace of God the Father, and also the Lord Jesus Christ, and the Holy Ghost, which beareth brecord of them, may be and abide in you forever. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "13",
         "link": "https://www.lds.org/scriptures/bofm/ether/13?lang=eng",
         "verses": [
@@ -27353,11 +26851,8 @@
             "text": "31 And Shared wounded Coriantumr in his thigh, that he did not go to battle again for the space of two years, in which time all the people upon the face of the land were shedding blood, and there was none to restrain them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "14",
         "link": "https://www.lds.org/scriptures/bofm/ether/14?lang=eng",
         "verses": [
@@ -27486,11 +26981,8 @@
             "text": "31 Now the loss of men, women and children on both sides was so great that Shiz commanded his people that they should not pursue the armies of Coriantumr; wherefore, they returned to their camp."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Ether",
-      "chapters": {
+      },
+      {
         "chapter": "15",
         "link": "https://www.lds.org/scriptures/bofm/ether/15?lang=eng",
         "verses": [
@@ -27632,12 +27124,12 @@
           }
         ]
       }
-    }
-  ],
-  [
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+    ]
+  },
+  {
+    "book": "The Book of Moroni",
+    "chapters": [
+      {
         "chapter": "1",
         "link": "https://www.lds.org/scriptures/bofm/moro/1?lang=eng",
         "verses": [
@@ -27658,11 +27150,8 @@
             "text": "4 Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of aworth unto my brethren, the Lamanites, in some future day, according to the will of the Lord."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "2",
         "link": "https://www.lds.org/scriptures/bofm/moro/2?lang=eng",
         "verses": [
@@ -27679,11 +27168,8 @@
             "text": "3 Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they alaid their hands, fell the Holy Ghost."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "3",
         "link": "https://www.lds.org/scriptures/bofm/moro/3?lang=eng",
         "verses": [
@@ -27704,11 +27190,8 @@
             "text": "4 And after this manner did they aordain priests and teachers, according to the bgifts and callings of God unto men; and they ordained them by the cpower of the Holy Ghost, which was in them."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "4",
         "link": "https://www.lds.org/scriptures/bofm/moro/4?lang=eng",
         "verses": [
@@ -27725,11 +27208,8 @@
             "text": "3 O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and asanctify this bbread to the souls of all those who partake of it; that they may eat in cremembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the dname of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his eSpirit to be with them. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "5",
         "link": "https://www.lds.org/scriptures/bofm/moro/5?lang=eng",
         "verses": [
@@ -27742,11 +27222,8 @@
             "text": "2 O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this awine to the souls of all those who drink of it, that they may do it in bremembrance of the cblood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his dSpirit to be with them. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "6",
         "link": "https://www.lds.org/scriptures/bofm/moro/6?lang=eng",
         "verses": [
@@ -27787,11 +27264,8 @@
             "text": "9 And their meetings were aconducted by the church after the manner of the workings of the Spirit, and by the bpower of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "7",
         "link": "https://www.lds.org/scriptures/bofm/moro/7?lang=eng",
         "verses": [
@@ -27988,11 +27462,8 @@
             "text": "48 Wherefore, my beloved brethren, apray unto the Father with all the energy of heart, that ye may be filled with this love, which he hath bestowed upon all who are true bfollowers of his Son, Jesus Christ; that ye may become the sons of God; that when he shall appear we shall cbe like him, for we shall see him as he is; that we may have this hope; that we may be dpurified even as he is pure. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "8",
         "link": "https://www.lds.org/scriptures/bofm/moro/8?lang=eng",
         "verses": [
@@ -28117,11 +27588,8 @@
             "text": "30 Farewell, my son, until I shall write unto you, or shall meet you again. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "9",
         "link": "https://www.lds.org/scriptures/bofm/moro/9?lang=eng",
         "verses": [
@@ -28230,11 +27698,8 @@
             "text": "26 And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the aright hand of his power, until all things shall become subject unto him, be, and abide with you forever. Amen."
           }
         ]
-      }
-    },
-    {
-      "book": "The Book of Moroni",
-      "chapters": {
+      },
+      {
         "chapter": "10",
         "link": "https://www.lds.org/scriptures/bofm/moro/10?lang=eng",
         "verses": [
@@ -28376,6 +27841,6 @@
           }
         ]
       }
-    }
-  ]
+    ]
+  }
 ]

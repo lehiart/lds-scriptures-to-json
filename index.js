@@ -26,8 +26,9 @@ const run = async () => {
     console.log(chalk.yellow("downloading...", booksList));
 
     await asyncForEach(booksList, async(book) => {
-       let tempList =  await getChaptersList(book, scripture, language)
-       chaptersList.push(tempList);
+       let tempList = await getChaptersList(book, scripture, language)
+       const { chapters, bookName } = tempList;
+       chaptersList.push({book: bookName, chapters});
     })
 
     fs.writeFile('book.json', pretty(chaptersList), 'utf8', (err) => {
@@ -66,10 +67,10 @@ const getChaptersList = async (book, scripture, language) => {
     await asyncForEach(chapterLinks, async(element) => {
          const verses =  await getChaptersData(element.link)
          element.verses = verses
-        chaptersList.push({book: bookName, chapters: element})
+        chaptersList.push(element)
      })
 
-    return chaptersList;
+    return {chapters: chaptersList, bookName};
 }
 
 const getChaptersData = async (chapterLink) => {
